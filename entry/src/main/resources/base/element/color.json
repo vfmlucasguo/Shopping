@@ -3,6 +3,34 @@
     {
       "name": "start_window_background",
       "value": "#FFFFFF"
+    },
+    {
+      "name": "bg_grey",
+      "value": "#F5F5F5"
+    },
+    {
+      "name": "button_color",
+      "value": "#1890ff"
+    },
+    {
+      "name": "login_text_color",
+      "value": "#FF6600"
+    },
+    {
+      "name": "black",
+      "value": "#000"
+    },
+    {
+      "name": "white",
+      "value": "#FFF"
+    },
+    {
+      "name": "text_grey",
+      "value": "#999999"
+    },
+    {
+      "name": "line_grey",
+      "value": "#C9C9C9"
     }
   ]
 }
